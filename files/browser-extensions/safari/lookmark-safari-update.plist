@@ -10,9 +10,9 @@
 			<key>Developer Identifier</key>
 			<string>A2MQ7WE8F2</string>
 			<key>CFBundleVersion</key>
-			<string>0.6</string>
+			<string>0.6.1</string>
 			<key>CFBundleShortVersionString</key>
-			<string>0.6</string>
+			<string>0.6.1</string>
 			<key>URL</key>
 			<string>http://heybox.github.io/files/browser-extensions/safari/lookmark.safariextz</string>
 		</dict>
