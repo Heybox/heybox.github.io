@@ -14,7 +14,7 @@
 			<key>CFBundleShortVersionString</key>
 			<string>0.6</string>
 			<key>URL</key>
-			<string>https://files.lookmark.io/browser-extensions/safari/lookmark.safariextz</string>
+			<string>http://heybox.github.io/files/browser-extensions/safari/lookmark.safariextz</string>
 		</dict>
 	</array>
 </dict>
