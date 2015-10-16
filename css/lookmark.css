@@ -9,6 +9,7 @@ body {
     color: #4d4d4d;
     width: auto;
     margin: 0 auto;
+    text-align: center;
     -webkit-font-smoothing: antialiased;
     -moz-font-smoothing: antialiased;
     -ms-font-smoothing: antialiased;
@@ -37,7 +38,7 @@ a:active {
     /*color: #c14b4d;*/
     /*color: #ee5c5d;*/
 }
-
+/*
 #credits {
     color: #888;
     text-align: center;
@@ -46,4 +47,4 @@ a:active {
 
 #credits a {
     color: #888;
-}
+}*/
