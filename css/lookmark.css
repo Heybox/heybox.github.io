@@ -12,26 +12,27 @@ a:link {
 a:visited {
     text-decoration: none;
     color: #ee5c5d;
+    /*color: #d32f13;*/
 }
 
 a:hover {
     text-decoration: underline;
+    /*color: #c14b4d;*/
+   /* color: #ee5c5d;*/
 }
 
 a:active {
     text-decoration: underline;
+    /*color: #c14b4d;*/
+    /*color: #ee5c5d;*/
 }
 
+#credits {
+    color: #888;
+    text-align: center;
+    padding-top: 25px;
+}
 
-body {
-    font: 20px Tahoma, Geneva, Arial, sans-serif;
-    line-height: 1.4em;
-    color: #4d4d4d;
-    width: auto;
-    margin: 0 auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
-    -ms-font-smoothing: antialiased;
-    -o-font-smoothing: antialiased;
-    font-smoothing: antialiased;
+#credits a {
+    color: #888;
 }
