@@ -16,7 +16,7 @@
 			<key>URL</key>
 			<string>http://files.lookmark.io/download/browser-extensions/safari/lookmark.safariextz</string>
 			<key>Update From Gallery</key>
-			<false/>
+			<true/>
 		</dict>
 	</array>
 </dict>
