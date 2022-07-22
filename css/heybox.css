@@ -4,7 +4,7 @@ html,body {
 }
 
 body {
-    font: 20px Tahoma, Geneva, Arial, sans-serif;
+    font: 18px Tahoma, Geneva, Arial, sans-serif;
     line-height: 1.4em;
     color: #4d4d4d;
     width: auto;
@@ -29,22 +29,16 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
-    /*color: #c14b4d;*/
-   /* color: #ee5c5d;*/
 }
 
 a:active {
     text-decoration: underline;
-    /*color: #c14b4d;*/
-    /*color: #ee5c5d;*/
-}
-/*
-#credits {
-    color: #888;
-    text-align: center;
-    padding-top: 25px;
 }
 
-#credits a {
-    color: #888;
-}*/
+#header {
+    font: 20px Tahoma, Geneva, Arial, sans-serif;
+}
+
+#footer {
+    font: 16px Tahoma, Geneva, Arial, sans-serif;
+}
