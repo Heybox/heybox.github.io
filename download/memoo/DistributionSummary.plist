@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Memoo.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4045D61AF7A78A353097221DE1C5D363443DD17C</string>
+				<key>dateExpires</key>
+				<string>2024-02-02</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>A2MQ7WE8F2.com.heybox.Memoo</string>
+				<key>com.apple.developer.family-controls</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>A2MQ7WE8F2</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Memoo.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4c8f4f8c-57c3-4814-9d9d-6f031533b57e</string>
+				<key>dateExpires</key>
+				<string>2024-06-20</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.heybox.Memoo</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>A2MQ7WE8F2</string>
+				<key>name</key>
+				<string>Heybox AB</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
