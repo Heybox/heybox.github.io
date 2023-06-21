@@ -1,59 +1,59 @@
-2023-06-21 09:59:01 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2cdbba6b0; archive(resolved)="<IDEArchive: 0x60003b0b4c00>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+2023-06-21 10:05:42 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x2cdbd04d0; archive(resolved)="<IDEArchive: 0x60003b0b4c00>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
 	Chain (14, self inclusive):
-	<IDEDistributionProcessingPipelineContext: 0x2cdbba6b0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionProcessingPipelineContext: 0x2d365dcd0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2cdbbad60; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2ca761050; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2d3693330; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x130e08d10; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2ca7b0c40; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x17c63eca0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2d36d1990; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
-	<IDEDistributionContext: 0x2d435d7f0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
-	<IDEDistributionContext: 0x10a8b81b0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
-	<IDEDistributionContext: 0x17c63b380; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
-	<IDEDistributionContext: 0x2d43ebcd0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
-	<IDEDistributionContext: 0x2ca29fb90; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="(null)", team="(null)">
-</IDEDistributionProcessingPipelineContext: 0x2cdbba6b0>
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCreateDestRootStep
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCopyItemStep
-2023-06-21 09:59:01 +0000  Running /usr/bin/ditto '-V' '/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app'
-2023-06-21 09:59:01 +0000  >>> Copying /Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app 
-2023-06-21 09:59:01 +0000  copying file ./_CodeSignature/CodeResources ... 
-2023-06-21 09:59:01 +0000  2111 bytes for ./_CodeSignature/CodeResources
-2023-06-21 09:59:01 +0000  copying file ./Memoo ... 
-2023-06-21 09:59:01 +0000  90576 bytes for ./Memoo
-2023-06-21 09:59:01 +0000  copying file ./embedded.mobileprovision ... 
-2023-06-21 09:59:01 +0000  13244 bytes for ./embedded.mobileprovision
-2023-06-21 09:59:01 +0000  copying file ./Info.plist ... 
-2023-06-21 09:59:01 +0000  1294 bytes for ./Info.plist
-2023-06-21 09:59:01 +0000  copying file ./PkgInfo ... 
-2023-06-21 09:59:01 +0000  8 bytes for ./PkgInfo
-2023-06-21 09:59:01 +0000  /usr/bin/ditto exited with 0
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionEmbedProfileStep
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionInfoPlistStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionAppThinningPlistStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCompileBitcodeStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCodeSlimmingStep
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionSymbolsStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionAppThinningStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionArchThinningStep
-2023-06-21 09:59:01 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app/Memoo' '-verify_arch' 'arm64e'
-2023-06-21 09:59:01 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
-2023-06-21 09:59:01 +0000  Skipping architecture thinning for item "Memoo" because arch "arm64e" wasn't found
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionODRStep
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionStripXattrsStep
-2023-06-21 09:59:01 +0000  Running /usr/bin/xattr '-crs' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app'
-2023-06-21 09:59:01 +0000  /usr/bin/xattr exited with 0
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCodesignStep
-2023-06-21 09:59:01 +0000  Entitlements for <IDEDistributionItem: 0x60003b0505a0; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013ca9a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006de6c00; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
+	<IDEDistributionProcessingPipelineContext: 0x2cdbd04d0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x2dc6cae30; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d4a63db0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d4a56290; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2d4a48f40; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ca714900; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ca293e20; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ca260a90; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ca260870; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60000012ef80; teamID='A2MQ7WE8F2', teamName='Heybox AB', teamType='Company', username='claes.jacobsson@gmail.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x2ca767a20; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
+	<IDEDistributionContext: 0x2ca767800; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
+	<IDEDistributionContext: 0x2ca7af880; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
+	<IDEDistributionContext: 0x2cdbfee00; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60001990cf00>", team="(null)">
+	<IDEDistributionContext: 0x2d36db0b0; archive = "<IDEArchive: 0x60003b0b4c00>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x2cdbd04d0>
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCreateDestRootStep
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCopyItemStep
+2023-06-21 10:05:42 +0000  Running /usr/bin/ditto '-V' '/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app'
+2023-06-21 10:05:42 +0000  >>> Copying /Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app 
+2023-06-21 10:05:42 +0000  copying file ./_CodeSignature/CodeResources ... 
+2023-06-21 10:05:42 +0000  2111 bytes for ./_CodeSignature/CodeResources
+2023-06-21 10:05:42 +0000  copying file ./Memoo ... 
+2023-06-21 10:05:42 +0000  90576 bytes for ./Memoo
+2023-06-21 10:05:42 +0000  copying file ./embedded.mobileprovision ... 
+2023-06-21 10:05:42 +0000  13244 bytes for ./embedded.mobileprovision
+2023-06-21 10:05:42 +0000  copying file ./Info.plist ... 
+2023-06-21 10:05:42 +0000  1294 bytes for ./Info.plist
+2023-06-21 10:05:42 +0000  copying file ./PkgInfo ... 
+2023-06-21 10:05:42 +0000  8 bytes for ./PkgInfo
+2023-06-21 10:05:42 +0000  /usr/bin/ditto exited with 0
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionEmbedProfileStep
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionInfoPlistStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionSymbolsStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionAppThinningStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionArchThinningStep
+2023-06-21 10:05:42 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app/Memoo' '-verify_arch' 'arm64e'
+2023-06-21 10:05:42 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2023-06-21 10:05:42 +0000  Skipping architecture thinning for item "Memoo" because arch "arm64e" wasn't found
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionODRStep
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionStripXattrsStep
+2023-06-21 10:05:42 +0000  Running /usr/bin/xattr '-crs' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app'
+2023-06-21 10:05:42 +0000  /usr/bin/xattr exited with 0
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCodesignStep
+2023-06-21 10:05:42 +0000  Entitlements for <IDEDistributionItem: 0x60003b094660; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013cfd900; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006ddf910; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2023-02-02 10:48:43 +0000''>', entitlements='{
@@ -67,7 +67,7 @@
     "com.apple.developer.team-identifier" = A2MQ7WE8F2;
     "get-task-allow" = 1;
 }
-2023-06-21 09:59:01 +0000  Entitlements for <IDEDistributionItem: 0x60003b0505a0; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013ca9a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006de56b0; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
+2023-06-21 10:05:42 +0000  Entitlements for <IDEDistributionItem: 0x60003b094660; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013cfd900; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006ddf4f0; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2023-02-02 10:48:43 +0000''>', entitlements='{
@@ -81,7 +81,7 @@
     "com.apple.developer.team-identifier" = A2MQ7WE8F2;
     "get-task-allow" = 1;
 }
-2023-06-21 09:59:01 +0000  Writing entitlements for <IDEDistributionItem: 0x60003b0505a0; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013ca9a90; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006de7180; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
+2023-06-21 10:05:42 +0000  Writing entitlements for <IDEDistributionItem: 0x60003b094660; bundleID='com.heybox.Memoo', path='<DVTFilePath:0x60001330a4c0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600013cfd900; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600006ddf440; name='Apple Development: Claes Jacobsson (8WXWZKWEAZ)', hash='4045D61AF7A78A353097221DE1C5D363443DD17C', serialNumber='2A393DE948F81EFD9E146FE07F6EDEDD', certificateKinds='(
     "1.2.840.113635.100.6.1.12",
     "1.2.840.113635.100.6.1.2"
 ), issueDate='2023-02-02 10:48:43 +0000''>', entitlements='{
@@ -89,29 +89,29 @@
     "com.apple.developer.family-controls" = 1;
     "com.apple.developer.team-identifier" = A2MQ7WE8F2;
     "get-task-allow" = 1;
-}', teamID='A2MQ7WE8F2', identifier='com.heybox.Memoo', executablePath='<DVTFilePath:0x60001bec1bc0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app/Memoo'>', hardenedRuntime='1'>'> to: /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/entitlements~~~FfXXTP
-2023-06-21 09:59:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4045D61AF7A78A353097221DE1C5D363443DD17C' '--entitlements' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/entitlements~~~FfXXTP' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app'
-2023-06-21 09:59:01 +0000  /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app: replacing existing signature
-2023-06-21 09:59:01 +0000  /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app: signed app bundle with Mach-O thin (arm64) [com.heybox.Memoo]
-2023-06-21 09:59:01 +0000  /usr/bin/codesign exited with 0
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionZipODRItemStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCreateIPAStep
-2023-06-21 09:59:01 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Packages/Memoo.ipa'
-2023-06-21 09:59:01 +0000  >>> Copying /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root 
-2023-06-21 09:59:01 +0000  copying file ./Payload/Memoo.app/_CodeSignature/CodeResources ... 
-2023-06-21 09:59:01 +0000  2111 bytes for ./Payload/Memoo.app/_CodeSignature/CodeResources
-2023-06-21 09:59:01 +0000  copying file ./Payload/Memoo.app/Memoo ... 
-2023-06-21 09:59:01 +0000  90576 bytes for ./Payload/Memoo.app/Memoo
-2023-06-21 09:59:01 +0000  copying file ./Payload/Memoo.app/embedded.mobileprovision ... 
-2023-06-21 09:59:01 +0000  13244 bytes for ./Payload/Memoo.app/embedded.mobileprovision
-2023-06-21 09:59:01 +0000  copying file ./Payload/Memoo.app/Info.plist ... 
-2023-06-21 09:59:01 +0000  1294 bytes for ./Payload/Memoo.app/Info.plist
-2023-06-21 09:59:01 +0000  copying file ./Payload/Memoo.app/PkgInfo ... 
-2023-06-21 09:59:01 +0000  8 bytes for ./Payload/Memoo.app/PkgInfo
-2023-06-21 09:59:01 +0000  /usr/bin/ditto exited with 0
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionAppStoreInformationStep
-2023-06-21 09:59:01 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
-2023-06-21 09:59:01 +0000  IDEDistributionItem init <DVTFilePath:0x600017268fc0:'/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~vfrSGt/Root/Payload/Memoo.app'>
-2023-06-21 09:59:01 +0000  Processing step: IDEDistributionCreateManifestStep
+}', teamID='A2MQ7WE8F2', identifier='com.heybox.Memoo', executablePath='<DVTFilePath:0x60001bec1bc0:'/Users/claesjacobsson/Library/Developer/Xcode/Archives/2023-06-21/Memoo 2023-06-21, 11.46.xcarchive/Products/Applications/Memoo.app/Memoo'>', hardenedRuntime='1'>'> to: /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/entitlements~~~SJd3p6
+2023-06-21 10:05:42 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4045D61AF7A78A353097221DE1C5D363443DD17C' '--entitlements' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/entitlements~~~SJd3p6' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app'
+2023-06-21 10:05:42 +0000  /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app: replacing existing signature
+2023-06-21 10:05:42 +0000  /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app: signed app bundle with Mach-O thin (arm64) [com.heybox.Memoo]
+2023-06-21 10:05:42 +0000  /usr/bin/codesign exited with 0
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionZipODRItemStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCreateIPAStep
+2023-06-21 10:05:42 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root' '/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Packages/Memoo.ipa'
+2023-06-21 10:05:42 +0000  >>> Copying /var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root 
+2023-06-21 10:05:42 +0000  copying file ./Payload/Memoo.app/_CodeSignature/CodeResources ... 
+2023-06-21 10:05:42 +0000  2111 bytes for ./Payload/Memoo.app/_CodeSignature/CodeResources
+2023-06-21 10:05:42 +0000  copying file ./Payload/Memoo.app/Memoo ... 
+2023-06-21 10:05:42 +0000  90576 bytes for ./Payload/Memoo.app/Memoo
+2023-06-21 10:05:42 +0000  copying file ./Payload/Memoo.app/embedded.mobileprovision ... 
+2023-06-21 10:05:42 +0000  13244 bytes for ./Payload/Memoo.app/embedded.mobileprovision
+2023-06-21 10:05:42 +0000  copying file ./Payload/Memoo.app/Info.plist ... 
+2023-06-21 10:05:42 +0000  1294 bytes for ./Payload/Memoo.app/Info.plist
+2023-06-21 10:05:42 +0000  copying file ./Payload/Memoo.app/PkgInfo ... 
+2023-06-21 10:05:42 +0000  8 bytes for ./Payload/Memoo.app/PkgInfo
+2023-06-21 10:05:42 +0000  /usr/bin/ditto exited with 0
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2023-06-21 10:05:42 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2023-06-21 10:05:42 +0000  IDEDistributionItem init <DVTFilePath:0x6000172bd030:'/var/folders/n4/c3k6_s8j58lfw61h88hz46mm0000gn/T/XcodeDistPipeline.~~~KehzJg/Root/Payload/Memoo.app'>
+2023-06-21 10:05:42 +0000  Processing step: IDEDistributionCreateManifestStep
